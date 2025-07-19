@@ -1,8 +1,3 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
 local EblanCheat = Instance.new("ScreenGui")
 local LoginWindow = Instance.new("Frame")
 local Windowname = Instance.new("TextLabel")
